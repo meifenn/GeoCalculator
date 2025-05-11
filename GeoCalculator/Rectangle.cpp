@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Shape.hpp"
+#include "Rectangle.hpp"
 
 using namespace std;
 
